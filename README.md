@@ -1,2 +1,2 @@
-# StandalonePrograms
+# Standalone Programs
 It includes standalone program and utilities written in open source programming languages
